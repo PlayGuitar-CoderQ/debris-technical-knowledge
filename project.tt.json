@@ -1,0 +1,9 @@
+{
+  "miniprogramRoot": "./",
+  "projectname": "debris-technical-knowledge",
+  "appid": "testAppId",
+  "setting": {
+    "es6": false,
+    "minified": false
+  }
+}
